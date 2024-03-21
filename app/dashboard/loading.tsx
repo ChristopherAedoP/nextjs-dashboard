@@ -1,5 +1,5 @@
-import DashboardSkeleton from "../ui/skeletons";
+import InvoiceSkeleton from '../ui/skeletons';
 
 export default function Loading(){
-    return <DashboardSkeleton></DashboardSkeleton>
+    return <InvoiceSkeleton></InvoiceSkeleton>;
 }
